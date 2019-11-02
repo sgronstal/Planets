@@ -1,4 +1,6 @@
 *.dat
 results/
 clipboard.txt
+# These are exceptions to the ignore.  Preceeded by !
+!a.dat
 
